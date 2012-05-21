@@ -10,6 +10,7 @@ public class rectangulo{
 		base=0.0;
 		altura=0.0;
 		//dos
+		//tres
 	}
 /*c'est le constructor*/
 	public rectangulo(double b,double a){
